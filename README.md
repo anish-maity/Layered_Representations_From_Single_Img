@@ -1,1 +1,1 @@
-Fine-tuned multilingual LLM for sentiment classification across 13 Indian languages.
+This project implements an end-to-end computer-vision pipeline that converts a single RGB bitmap image into a structured layered representation. The representation contains semantic regions, relative depth ordering, mutually exclusive masks, RGBA image layers, machine-readable metadata, and optional appearance and parallax outputs.
